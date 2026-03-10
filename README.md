@@ -24,6 +24,7 @@ Mon positionnement est rare : une expertise **Cloud/DevOps** de haut niveau comb
 Cybersécurité — CIS AWS Benchmark · MITRE ATT&CK · NIS2 · ISO 27001 · EU AI Act
 ---
 
+
 ## Projets
 
 <br>
@@ -33,11 +34,7 @@ Cybersécurité — CIS AWS Benchmark · MITRE ATT&CK · NIS2 · ISO 27001 · EU
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/aws_wp">
-
-![](https://img.shields.io/badge/─────────────────────────────-232F3E?style=for-the-badge)
-
-**aws_wp**
-
+**🏗️ aws\_wp**
 </a>
 
 Déploiement WordPress sur **AWS EKS** avec Terraform.
@@ -51,11 +48,7 @@ Infrastructure multi-AZ · Aurora MySQL · Pipeline CI/CD 8 étapes · Prometheu
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/aws-security-auditor">
-
-![](https://img.shields.io/badge/─────────────────────────────-8B0000?style=for-the-badge)
-
-**aws-security-auditor**
-
+**🔐 aws-security-auditor**
 </a>
 
 Audit automatisé de posture sécurité AWS.
@@ -72,11 +65,7 @@ IAM · S3 · EC2 · RDS · CloudTrail · **Score 0–100** · Rapport HTML visue
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/ai-compliance-checker">
-
-![](https://img.shields.io/badge/─────────────────────────────-4A0E6B?style=for-the-badge)
-
-**ai-compliance-checker**
-
+**🛡️ ai-compliance-checker**
 </a>
 
 Évaluation de conformité réglementaire par IA.
@@ -90,11 +79,7 @@ IAM · S3 · EC2 · RDS · CloudTrail · **Score 0–100** · Rapport HTML visue
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/threat-detection-eks">
-
-![](https://img.shields.io/badge/─────────────────────────────-8B0000?style=for-the-badge)
-
-**threat-detection-eks**
-
+**🔍 threat-detection-eks**
 </a>
 
 Détection d'anomalies **temps réel** sur logs Kubernetes.
@@ -111,11 +96,7 @@ Isolation Forest ML · Dashboard WebSocket · Prometheus & CloudWatch
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/aws-infra-audit">
-
-![](https://img.shields.io/badge/─────────────────────────────-D97757?style=for-the-badge)
-
-**aws-infra-audit**
-
+**⚙️ aws-infra-audit**
 </a>
 
 Skill **Claude Code** pour audit sécurité d'infra AWS/Terraform.
