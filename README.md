@@ -26,54 +26,108 @@ Cybersécurité — CIS AWS Benchmark · MITRE ATT&CK · NIS2 · ISO 27001 · EU
 
 ## Projets
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fantakone/aws_wp">
-        <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-232F3E?style=flat-square&logoColor=white" />
-      </a>
-      <h3><a href="https://github.com/fantakone/aws_wp">aws_wp</a></h3>
-      <p>Déploiement WordPress sur AWS EKS avec Terraform. Infrastructure multi-AZ, Aurora MySQL, pipeline CI/CD complet en 8 étapes.</p>
-      <p><code>Terraform</code> <code>EKS</code> <code>CodePipeline</code> <code>Aurora</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fantakone/aws-security-auditor">
-        <img src="https://img.shields.io/badge/Cybersécurité-8B0000?style=flat-square&logoColor=white" />
-      </a>
-      <h3><a href="https://github.com/fantakone/aws-security-auditor">aws-security-auditor</a></h3>
-      <p>Audit automatisé de posture sécurité AWS. Analyse IAM, S3, EC2, RDS et CloudTrail · Rapport HTML avec score 0–100.</p>
-      <p><code>Python</code> <code>boto3</code> <code>CIS Benchmark</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fantakone/ai-compliance-checker">
-        <img src="https://img.shields.io/badge/IA%20%26%20Gouvernance-4A0E6B?style=flat-square&logoColor=white" />
-      </a>
-      <h3><a href="https://github.com/fantakone/ai-compliance-checker">ai-compliance-checker</a></h3>
-      <p>Évaluation de conformité réglementaire par IA. EU AI Act · NIS2 · RGPD · ISO 27001 · SOC 2.</p>
-      <p><code>FastAPI</code> <code>Claude API</code> <code>EU AI Act</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fantakone/threat-detection-eks">
-        <img src="https://img.shields.io/badge/Cybersécurité%20%26%20IA-8B0000?style=flat-square&logoColor=white" />
-      </a>
-      <h3><a href="https://github.com/fantakone/threat-detection-eks">threat-detection-eks</a></h3>
-      <p>Détection d'anomalies temps réel sur logs Kubernetes. Isolation Forest ML · Dashboard WebSocket.</p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>WebSocket</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fantakone/aws-infra-audit">
-        <img src="https://img.shields.io/badge/Claude%20Code%20Skill-D97757?style=flat-square&logoColor=white" />
-      </a>
-      <h3><a href="https://github.com/fantakone/aws-infra-audit">aws-infra-audit</a></h3>
-      <p>Skill Claude Code pour audit sécurité d'infrastructure AWS/Terraform. 80+ vérifications · CIS AWS v2.0 · MITRE ATT&CK.</p>
-      <p><code>Claude Code</code> <code>MITRE ATT&CK</code> <code>CIS AWS</code></p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top" style="padding:8px">
+
+<a href="https://github.com/fantakone/aws_wp">
+
+![](https://img.shields.io/badge/─────────────────────────────-232F3E?style=for-the-badge)
+
+**aws_wp**
+
+</a>
+
+Déploiement WordPress sur **AWS EKS** avec Terraform.
+Infrastructure multi-AZ · Aurora MySQL · Pipeline CI/CD 8 étapes · Prometheus + Grafana
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square)
+
+</td>
+<td width="50%" valign="top" style="padding:8px">
+
+<a href="https://github.com/fantakone/aws-security-auditor">
+
+![](https://img.shields.io/badge/─────────────────────────────-8B0000?style=for-the-badge)
+
+**aws-security-auditor**
+
+</a>
+
+Audit automatisé de posture sécurité AWS.
+IAM · S3 · EC2 · RDS · CloudTrail · **Score 0–100** · Rapport HTML visuel
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![boto3](https://img.shields.io/badge/boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CIS](https://img.shields.io/badge/CIS_Benchmark-CC0000?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="padding:8px">
+
+<a href="https://github.com/fantakone/ai-compliance-checker">
+
+![](https://img.shields.io/badge/─────────────────────────────-4A0E6B?style=for-the-badge)
+
+**ai-compliance-checker**
+
+</a>
+
+Évaluation de conformité réglementaire par IA.
+**EU AI Act · NIS2 · RGPD · ISO 27001 · SOC 2** · Plan d'action personnalisé
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top" style="padding:8px">
+
+<a href="https://github.com/fantakone/threat-detection-eks">
+
+![](https://img.shields.io/badge/─────────────────────────────-8B0000?style=for-the-badge)
+
+**threat-detection-eks**
+
+</a>
+
+Détection d'anomalies **temps réel** sur logs Kubernetes.
+Isolation Forest ML · Dashboard WebSocket · Prometheus & CloudWatch
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![WS](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" style="padding:8px">
+
+<a href="https://github.com/fantakone/aws-infra-audit">
+
+![](https://img.shields.io/badge/─────────────────────────────-D97757?style=for-the-badge)
+
+**aws-infra-audit**
+
+</a>
+
+Skill **Claude Code** pour audit sécurité d'infra AWS/Terraform.
+80+ vérifications · CIS AWS v2.0 · MITRE ATT&CK Cloud
+
+![ClaudeCode](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![CIS](https://img.shields.io/badge/CIS_AWS-CC0000?style=flat-square)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-000000?style=flat-square)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ---
