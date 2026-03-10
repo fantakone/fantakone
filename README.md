@@ -1,4 +1,4 @@
-# Fanta Koné — Cloud · Cybersécurité · IA
+# Fanta Koné | Cloud · Cybersécurité · IA
 
 > Consultante freelance | 10+ ans sur des infrastructures critiques | Basée en France
 
