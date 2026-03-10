@@ -26,20 +26,55 @@ Cybersécurité — CIS AWS Benchmark · MITRE ATT&CK · NIS2 · ISO 27001 · EU
 
 ## Projets
 
-**[aws_wp](https://github.com/fantakone/aws_wp)** — Déploiement WordPress sur AWS EKS avec Terraform  
-Infrastructure multi-AZ, Aurora MySQL, pipeline CI/CD complet en 8 étapes
-
-**[aws-security-auditor](https://github.com/fantakone/aws-security-auditor)** — Audit automatisé de posture sécurité AWS  
-Analyse IAM, S3, EC2, RDS et CloudTrail · Rapport HTML avec score 0–100
-
-**[ai-compliance-checker](https://github.com/fantakone/ai-compliance-checker)** — Évaluation de conformité réglementaire par IA  
-EU AI Act · NIS2 · RGPD · ISO 27001 · SOC 2 · Rapport de gaps personnalisé
-
-**[threat-detection-eks](https://github.com/fantakone/threat-detection-eks)** — Détection d'anomalies temps réel sur logs Kubernetes  
-Isolation Forest ML · Dashboard WebSocket · Sources Prometheus & CloudWatch
-
-**[aws-infra-audit](https://github.com/fantakone/aws-infra-audit)** — Skill Claude Code pour audit sécurité d'infrastructure AWS  
-80+ vérifications · CIS AWS Foundations v2.0 · MITRE ATT&CK Cloud
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fantakone/aws_wp">
+        <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-232F3E?style=flat-square&logoColor=white" />
+      </a>
+      <h3><a href="https://github.com/fantakone/aws_wp">aws_wp</a></h3>
+      <p>Déploiement WordPress sur AWS EKS avec Terraform. Infrastructure multi-AZ, Aurora MySQL, pipeline CI/CD complet en 8 étapes.</p>
+      <p><code>Terraform</code> <code>EKS</code> <code>CodePipeline</code> <code>Aurora</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fantakone/aws-security-auditor">
+        <img src="https://img.shields.io/badge/Cybersécurité-8B0000?style=flat-square&logoColor=white" />
+      </a>
+      <h3><a href="https://github.com/fantakone/aws-security-auditor">aws-security-auditor</a></h3>
+      <p>Audit automatisé de posture sécurité AWS. Analyse IAM, S3, EC2, RDS et CloudTrail · Rapport HTML avec score 0–100.</p>
+      <p><code>Python</code> <code>boto3</code> <code>CIS Benchmark</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fantakone/ai-compliance-checker">
+        <img src="https://img.shields.io/badge/IA%20%26%20Gouvernance-4A0E6B?style=flat-square&logoColor=white" />
+      </a>
+      <h3><a href="https://github.com/fantakone/ai-compliance-checker">ai-compliance-checker</a></h3>
+      <p>Évaluation de conformité réglementaire par IA. EU AI Act · NIS2 · RGPD · ISO 27001 · SOC 2.</p>
+      <p><code>FastAPI</code> <code>Claude API</code> <code>EU AI Act</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fantakone/threat-detection-eks">
+        <img src="https://img.shields.io/badge/Cybersécurité%20%26%20IA-8B0000?style=flat-square&logoColor=white" />
+      </a>
+      <h3><a href="https://github.com/fantakone/threat-detection-eks">threat-detection-eks</a></h3>
+      <p>Détection d'anomalies temps réel sur logs Kubernetes. Isolation Forest ML · Dashboard WebSocket.</p>
+      <p><code>Python</code> <code>scikit-learn</code> <code>WebSocket</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fantakone/aws-infra-audit">
+        <img src="https://img.shields.io/badge/Claude%20Code%20Skill-D97757?style=flat-square&logoColor=white" />
+      </a>
+      <h3><a href="https://github.com/fantakone/aws-infra-audit">aws-infra-audit</a></h3>
+      <p>Skill Claude Code pour audit sécurité d'infrastructure AWS/Terraform. 80+ vérifications · CIS AWS v2.0 · MITRE ATT&CK.</p>
+      <p><code>Claude Code</code> <code>MITRE ATT&CK</code> <code>CIS AWS</code></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
