@@ -34,7 +34,7 @@ Cybersécurité — CIS AWS Benchmark · MITRE ATT&CK · NIS2 · ISO 27001 · EU
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/aws_wp">
-**aws\_wp**
+**AWS WORDPRESS**
 </a>
 
 Déploiement WordPress sur **AWS EKS** avec Terraform.
@@ -65,7 +65,7 @@ IAM · S3 · EC2 · RDS · CloudTrail · **Score 0–100** · Rapport HTML visue
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/ai-compliance-checker">
-**ai-compliance-checker**
+**AI COMPLIANCE CHECKER**
 </a>
 
 Évaluation de conformité réglementaire par IA.
@@ -79,7 +79,7 @@ IAM · S3 · EC2 · RDS · CloudTrail · **Score 0–100** · Rapport HTML visue
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/threat-detection-eks">
-**threat-detection-eks**
+**EKS THREAT DETECTION**
 </a>
 
 Détection d'anomalies **temps réel** sur logs Kubernetes.
@@ -96,7 +96,7 @@ Isolation Forest ML · Dashboard WebSocket · Prometheus & CloudWatch
 <td width="50%" valign="top" style="padding:8px">
 
 <a href="https://github.com/fantakone/aws-infra-audit">
-**aws-infra-audit**
+**AWS INFRA AUDIT**
 </a>
 
 Skill **Claude Code** pour audit sécurité d'infra AWS/Terraform.
