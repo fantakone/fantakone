@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Qui suis-je ?
+##  Qui suis-je ?
 
 J'aide les organisations ambitieuses à adopter l'IA, sécuriser leur cloud et livrer leurs projets tech sans compromis, grâce au regard d'une experte formée sur les infrastructures les plus exigeantes.
 
@@ -12,7 +12,7 @@ Mon positionnement est rare : je combine une expertise **Cloud/DevOps** de haut 
 
 ---
 
-## 🛠️ Stack & Expertises
+##  Stack & Expertises
 
 **Cloud & Infrastructure**
 
@@ -45,7 +45,7 @@ Mon positionnement est rare : je combine une expertise **Cloud/DevOps** de haut 
 
 ---
 
-## 🚀 Projets
+##  Projets
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
@@ -57,7 +57,7 @@ Mon positionnement est rare : je combine une expertise **Cloud/DevOps** de haut 
 
 ---
 
-## 🎯 Ce que je fais pour mes clients
+##  Ce que je fais pour mes clients
 
 ```
 🏢 Startups tech        → Architecture cloud scalable, mise en conformité rapide
@@ -67,7 +67,7 @@ Mon positionnement est rare : je combine une expertise **Cloud/DevOps** de haut 
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 [![Site](https://img.shields.io/badge/fantakone.com-C84B2F?style=for-the-badge&logoColor=white)](https://fantakone.com)
 [![Malt](https://img.shields.io/badge/Malt-FF5C57?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/fantadeazevedo)
