@@ -6,7 +6,7 @@
 
 ## 👋 Qui suis-je ?
 
-J'aide les organisations ambitieuses à **adopter l'IA, sécuriser leur cloud et livrer leurs projets tech sans compromis** — grâce au regard d'une experte formée sur les infrastructures les plus exigeantes.
+J'aide les organisations ambitieuses à adopter l'IA, sécuriser leur cloud et livrer leurs projets tech sans compromis, grâce au regard d'une experte formée sur les infrastructures les plus exigeantes.
 
 Mon positionnement est rare : je combine une expertise **Cloud/DevOps** de haut niveau avec une double compétence **Cybersécurité** et **Gouvernance IA** (EU AI Act, NIS2). Je ne choisis pas entre technique et stratégie — je fais les deux.
 
